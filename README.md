@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Miguel Miranda</h1>
 <h3 align="center">A passionate data analyst</h3>
 
-🌱 I’m currently working on creating my data portfolio.
+🌱 Trying to use each day as an opportunity to become a better data analyst
 
 📫 How to reach me lmbasmiranda@gmail.com
 
